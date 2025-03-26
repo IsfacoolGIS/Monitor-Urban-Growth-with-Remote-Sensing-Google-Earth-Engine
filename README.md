@@ -91,3 +91,4 @@ This project is released under the MIT License. Feel free to modify and improve 
 🔥 Star this repo ⭐ if you find it useful! Fork and contribute to improve urban mapping with GEE! 🚀
 
 ![](https://github.com/IsfacoolGIS/Monitor-Urban-Growth-with-Remote-Sensing-Google-Earth-Engine/blob/b8f73373c918a9c96a64d89e7abc4639edcbbbc7/Screenshot%20(173).png)
+![](https://github.com/IsfacoolGIS/Monitor-Urban-Growth-with-Remote-Sensing-Google-Earth-Engine/blob/1dd6028b3d56349e885bd185681c848528d10eaa/Screenshot%20(174).png)
